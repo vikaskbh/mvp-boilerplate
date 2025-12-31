@@ -6,11 +6,6 @@
 
 Run the simple script to start both services in separate windows:
 
-```powershell
-.\start-dev-simple.ps1
-```
-
-Or use the single-window version:
 
 ```powershell
 .\start-dev.ps1
